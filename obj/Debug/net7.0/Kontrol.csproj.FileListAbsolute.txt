@@ -1,0 +1,15 @@
+/home/ivan/Обучение/C#/Kontrol/obj/Debug/net7.0/Kontrol.csproj.AssemblyReference.cache
+/home/ivan/Обучение/C#/Kontrol/obj/Debug/net7.0/Kontrol.GeneratedMSBuildEditorConfig.editorconfig
+/home/ivan/Обучение/C#/Kontrol/obj/Debug/net7.0/Kontrol.AssemblyInfoInputs.cache
+/home/ivan/Обучение/C#/Kontrol/obj/Debug/net7.0/Kontrol.AssemblyInfo.cs
+/home/ivan/Обучение/C#/Kontrol/obj/Debug/net7.0/Kontrol.csproj.CoreCompileInputs.cache
+/home/ivan/Обучение/C#/Kontrol/bin/Debug/net7.0/Kontrol
+/home/ivan/Обучение/C#/Kontrol/bin/Debug/net7.0/Kontrol.deps.json
+/home/ivan/Обучение/C#/Kontrol/bin/Debug/net7.0/Kontrol.runtimeconfig.json
+/home/ivan/Обучение/C#/Kontrol/bin/Debug/net7.0/Kontrol.dll
+/home/ivan/Обучение/C#/Kontrol/bin/Debug/net7.0/Kontrol.pdb
+/home/ivan/Обучение/C#/Kontrol/obj/Debug/net7.0/Kontrol.dll
+/home/ivan/Обучение/C#/Kontrol/obj/Debug/net7.0/refint/Kontrol.dll
+/home/ivan/Обучение/C#/Kontrol/obj/Debug/net7.0/Kontrol.pdb
+/home/ivan/Обучение/C#/Kontrol/obj/Debug/net7.0/Kontrol.genruntimeconfig.cache
+/home/ivan/Обучение/C#/Kontrol/obj/Debug/net7.0/ref/Kontrol.dll
