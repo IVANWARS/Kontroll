@@ -43,4 +43,11 @@ for (int i = 0; i <= array.Length -1; i++)
  PrintArray(newarray);
 
  
-
+void Commands()
+{
+    Console.WriteLine();
+    Console.WriteLine("1");
+    Console.WriteLine("2");
+    Console.WriteLine("3");
+    Console.WriteLine();
+}
